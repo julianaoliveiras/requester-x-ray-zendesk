@@ -13,6 +13,7 @@ The app will include a "Report bugs" link that lets the agent report a bug in an
 
 
 ### Screenshot(s):
-https://files.slack.com/files-pri/TAD7R08TA-F058YP0PXAB/image.png 
+![image](https://github.com/julianaoliveiras/requester-x-ray-zendesk/assets/42971717/e1b9727e-1ae8-4eb1-9e00-86d6dcafe15d)
+
 
 
